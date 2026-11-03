@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/MonitorGui.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/UsbMonitorService.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/PollingUsbDetector.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/TrustedDeviceRegistry.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/UsbDrive.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/EventRepository.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/UsbDetector.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/UsbEventListener.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/UsbGroup37.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/CliMenu.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/MockUsbDetector.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/EventLogger.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/EventType.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/UsbEvent.java</file>
+            <file>file:/C:/Users/ogone/Desktop/UsbGroup37/src/usbgroup37/ReportGenerator.java</file>
+        </group>
+    </open-files>
+</project-private>

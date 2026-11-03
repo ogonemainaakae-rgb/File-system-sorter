@@ -1,0 +1,8 @@
+[2026-10-23 21:41:41] CONNECTED | E:\ | Device: Documents (MOCK1) | Status: UNTRUSTED
+[2026-10-23 21:41:41] CONNECTED | F:\ | Device: Images (MOCK2) | Status: UNTRUSTED
+[2026-10-23 21:41:41] CONNECTED | I:\ | Device: Backups (MOCK5) | Status: UNTRUSTED
+[2026-10-23 21:41:41] CONNECTED | J:\ | Device: System_Files (MOCK6) | Status: UNTRUSTED
+[2026-10-23 21:41:41] CONNECTED | G:\ | Device: Videos (MOCK3) | Status: UNTRUSTED
+[2026-10-23 21:41:41] CONNECTED | H:\ | Device: Music (MOCK4) | Status: UNTRUSTED
+[2026-10-23 21:43:51] CONNECTED | D:\ | Device: Removable Disk (D:\) | Status: UNTRUSTED
+[2026-10-23 21:44:42] CONNECTED | D:\ | Device: Removable Disk (D:\) | Status: UNTRUSTED
